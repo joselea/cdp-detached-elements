@@ -11,6 +11,7 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 `npm start`
 
+![gif of sample app](cdp-detached-elements.gif)
 ___
 ### More documentation:
 https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/?tabs=javascript
