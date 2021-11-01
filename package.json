@@ -1,13 +1,11 @@
 {
   "name": "edgedriver-cdp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node test.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "joselea",
   "dependencies": {
     "selenium-webdriver": "^4.0.0"
   }
